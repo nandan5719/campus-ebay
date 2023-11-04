@@ -1,3 +1,3 @@
-# olx-backend
+# ebay-backend
 
 This is our backend which will serve our front-end react app

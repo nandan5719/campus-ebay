@@ -51,7 +51,7 @@ const NavBar = ({ categoryName }) => {
                     >
                         {" "}
                         <div>
-                            <h2>Olx IITG</h2>
+                            <h2>Campus E-bay</h2>
                         </div>
                         <div>
                             {isLoggedIn ? (

@@ -20,7 +20,7 @@ app.use(
     // give a name to cookie
     require("express-session")({
         secret: "thisismysessionsecret", // put in env file later
-        cookie: { name: "olx-session", maxAge: 1 * 60 * 60 * 1000 },
+        cookie: { name: "ebay-session", maxAge: 1 * 60 * 60 * 1000 },
         resave: true,
         saveUninitialized: false,
     })
